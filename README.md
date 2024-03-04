@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amit Kumar Ghsoh</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amit+Kumar+Ghosh!;" />
+</h1>
 <h3 align="center">A Full-Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l0rd-ak&label=Profile%20views&color=0e75b6&style=flat" alt="l0rd-ak" /> </p>
@@ -19,7 +21,7 @@
 <a href="https://www.leetcode.com/lord-ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lord-ak" height="30" width="40" /></a>
 </p>
 
-<h1 align="left">Languages and Tools:</h1>
+<h1 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 
 <p align="left"> 
 <!-- Compititive Programing part -->
