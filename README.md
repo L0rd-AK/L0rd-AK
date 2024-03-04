@@ -44,26 +44,16 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-
-
+<!-- Compititive Programing part -->
+<br/>
+<h3 align="left">Compititive Programing:</h3>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
-
-
-
-
-
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-
- 
-
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  
 
-</p>
-
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l0rd-ak&show_icons=true&locale=en&layout=compact" alt="l0rd-ak" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l0rd-ak&show_icons=true&locale=en" alt="l0rd-ak" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l0rd-ak&" alt="l0rd-ak" /></p>
+
+</p>
