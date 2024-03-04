@@ -24,10 +24,7 @@
 <p align="left"> 
 <!-- Compititive Programing part -->
 <h3 align="left">Compititive Programing:</h3>
-<img src="https://skillicons.dev/icons?i=c,c++,python" /> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />  
 <!-- web development part -->
 <br/>
 <h3 align="left">Frontend Development:</h3>
@@ -35,7 +32,8 @@
 <!-- Backend development part -->
 <br/>
 <h3 align="left">Backend Development:</h3>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,figma,tailwind" /> 
+<img src="https://skillicons.dev/icons?i=express,nodejs,mongodb,firebase" /> 
+
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
