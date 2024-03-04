@@ -51,8 +51,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  
 </p>
-<br/>
+
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l0rd-ak&show_icons=true&locale=en&layout=compact" alt="l0rd-ak" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l0rd-ak&show_icons=true&locale=en" alt="l0rd-ak" /></p>
-<br/>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=l0rd-ak&" alt="l0rd-ak" /></p<>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=l0rd-ak&" alt="l0rd-ak" /></p<>
