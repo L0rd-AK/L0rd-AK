@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **amitkumar89155@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/amit-kumar-ghosh-41a602215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-kumar-ghosh-41a602215" height="30" width="40" /></a>
 <a href="https://fb.com/mr.troglodyte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.troglodyte" height="30" width="40" /></a>
@@ -19,11 +19,11 @@
 <a href="https://www.leetcode.com/lord-ak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lord-ak" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 
 <p align="left"> 
 <!-- Compititive Programing part -->
-<h4 align="left">Compititive Programing:</h4>
+<h3 align="left">Compititive Programing:</h3>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
