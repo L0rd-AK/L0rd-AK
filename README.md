@@ -53,7 +53,6 @@
 </p>
 <br/>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l0rd-ak&show_icons=true&locale=en&layout=compact" alt="l0rd-ak" /></p>
-<br/>
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=l0rd-ak&show_icons=true&locale=en" alt="l0rd-ak" /></p>
 <br/>
 <p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=l0rd-ak&" alt="l0rd-ak" /></p<>
