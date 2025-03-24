@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next Js, TypeScript, Redux**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-snowy-five-62.vercel.app](https://amitkumarghosh.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio](https://amitkumarghosh.vercel.app)
 
 - 💬 Ask me about **React, C, C++, Python**
 
