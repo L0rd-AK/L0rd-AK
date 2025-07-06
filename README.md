@@ -4,7 +4,7 @@
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l0rd-ak&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/l0rd-ak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://portfolio-snowy-five-62.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](amitkumarghosh.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:amitkumar89155@gmail.com)
 
 ## 👨‍💻 About Me
