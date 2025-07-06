@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer from Bangladesh with a strong foundation i
 - 🔭 I'm currently working on improving my full-stack development skills
 - 🌱 Learning **Next.js**, **TypeScript**, and **Redux**
 - 💬 Ask me about **React**, **C**, **C++**, **Python**
-- 👨‍💻 Check out my portfolio: [Portfolio Website](https://portfolio-snowy-five-62.vercel.app)
+- 👨‍💻 Check out my portfolio: [Portfolio Website](amitkumarghosh.vercel.app)
 - 📫 Reach me at: amitkumar89155@gmail.com
 
 ## 🛠️ Tech Stack
