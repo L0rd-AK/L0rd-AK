@@ -4,7 +4,7 @@
 </div>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=l0rd-ak&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/l0rd-ak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](amitkumarghosh.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://amitkumarghosh.vercel.app)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red)](mailto:amitkumar89155@gmail.com)
 
 ## 👨‍💻 About Me
@@ -14,7 +14,7 @@ I'm a passionate Full-Stack Developer from Bangladesh with a strong foundation i
 - 🔭 I'm currently working on improving my full-stack development skills
 - 🌱 Learning **Next.js**, **TypeScript**, and **Redux**
 - 💬 Ask me about **React**, **C**, **C++**, **Python**
-- 👨‍💻 Check out my portfolio: [Portfolio Website](amitkumarghosh.vercel.app)
+- 👨‍💻 Check out my portfolio: [Portfolio Website](https://amitkumarghosh.vercel.app)
 - 📫 Reach me at: amitkumar89155@gmail.com
 
 ## 🛠️ Tech Stack
