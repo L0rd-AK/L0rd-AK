@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer from Bangladesh with a strong foundation in both frontend and backend development. I love turning complex problems into simple, beautiful, and intuitive solutions.
+I'm a passionate Full-Stack Developer from Bangladesh with a strong foundation in both frontend and backend development. I love turning complex problems into simple, beautiful, intuitive solutions and money.
 
 - 🔭 I'm currently working on improving my full-stack development skills
 - 🌱 Learning **Next.js**, **TypeScript**, and **Redux**
